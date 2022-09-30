@@ -1,8 +1,7 @@
 # Currículo online
 
-Curriculo feito utilzando HTML, CSS e JS, além de suas bibliotecas principais! Esse projeto está em constante atualização e mudança,
-como espero que eu esteja também! 
-
+Curriculo online separado com abas que contem os meus principais certificados, niveis de habilidades, experiências e portfolio. Além da possibilidade de baixar o curriculo em pdf e links para que se possa entrar em contato comigo de forma mais facil!
+   
 ## Link para o Curriculo
 
 https://alexandremrrocha.github.io/index.html#home
