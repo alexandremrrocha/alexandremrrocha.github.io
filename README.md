@@ -1,15 +1,15 @@
-# Currículo online
+# 💼 Currículo Online
 
-Curriculo online separado com abas que contem os meus principais certificados, niveis de habilidades, experiências e portfolio. Além da possibilidade de baixar o curriculo em pdf e links para que se possa entrar em contato comigo de forma mais facil!
+Este projeto apresenta meu currículo em formato web, com navegação intuitiva por abas que organizam minhas principais habilidades, experiências profissionais e portfólio de projetos. A plataforma também oferece a opção de download do currículo em PDF, além de links diretos para contato.
 
-## Stacks utilizadas
+## 🔧 Tecnologias Utilizadas
 
-- JQuery
-- Bootstrap
-- ValidatorJS
-- FontAwesome
-- Animate
+- **jQuery**
+- **Bootstrap**
+- **ValidatorJS**
+- **FontAwesome**
+- **Animate.css**
 
-## Link para o Curriculo
+## 🌐 Acesse o Currículo Online
 
-https://alexandremrrocha.github.io/index.html#home
+➡️ [Clique aqui para visualizar](https://alexandremrrocha.github.io/index.html#home)
